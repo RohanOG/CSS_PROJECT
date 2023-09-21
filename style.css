@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+.img{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 380px;
+    margin-top: 92px;
+
+    
+}
+#pol{
+    font-family: 'Libre Baskerville', serif;
+    background-color: black;
+    color: white;
+    margin-left: 430px;
+    font-size: 23px;
+    text-align: left;
+}
+#col{
+    color: white;
+    margin-left: 500px;
+    font-size: 20px;
+    text-align: left;
+}
+
